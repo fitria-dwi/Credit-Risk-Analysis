@@ -213,7 +213,8 @@ summary(risk_rating_model)
 plot(risk_rating_model)
 ```
 
-![](Credit-Risk-Analysis_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![Rplot01](https://user-images.githubusercontent.com/74573342/142723734-b69dc1e4-c56c-4b16-86a1-2228deeb9c8f.png)
+
 
 #### **Save Test Set Prediction Results**
 
